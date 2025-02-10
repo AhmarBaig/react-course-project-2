@@ -1,0 +1,1 @@
+# This is React Course Project #2: Building a Travel Log
